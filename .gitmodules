@@ -1,0 +1,6 @@
+[submodule "CorboGPIB"]
+	path = CorboGPIB
+	url = https://github.com/bjohan/CorboGPIB.git
+[submodule "python_cat_lib"]
+	path = python_cat_lib
+	url = https://github.com/bjohan/python_cat_lib.git
